@@ -1,4 +1,4 @@
-data = '[{"nama" : "Kemangi 41"}, {"alamat" : "Jl. Tanah Merah IV Gang Kemangi No. 41"}, {"phone" : "0822"}, {"keterangan" : "Voucher Kemangi 41 bisa di beli di gang Kemangi No.41 atau gang Kluweh No.19 (Rosi)"}, {"copyright" : "2018 by Laksamadi Guko"}, {"masaaktif" : ""}, {"trial" : "Coba Gratis"}, {"notifikasi" : "Internet dalam perbaikan."}]';
+data = '[{"nama" : "Lucky.Net"}, {"alamat" : "JL. Telaga Tujuh No.19"}, {"phone" : "081947998500"}, {"keterangan" : "Voucher Lucky.Net bisa di beli di Kedai Pak Wo/Lucky.Net"}, {"copyright" : "2019 by Lucky.Net"}, {"masaaktif" : ""}, {"trial" : "Coba Gratis"}, {"notifikasi" : "Internet dalam perbaikan."}]';
 
 datatitle = '[{"title1" : "Paket Wifi"}, {"title2" : "Voucher"},{"title3" : "Alamat"}, {"title4" : "Kontak"}, {"title5" : "Peringatan"}, {"title6" : "Expired"}]';
 
